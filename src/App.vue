@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <a-button type="primary" @click="handleClick">按钮1</a-button>
+    <a-button type="primary" @click="handleClick">按钮1</a-button>
   </div>
 </template>
 
